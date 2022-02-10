@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200&family=Prompt:wght@300;500&family=Varela+Round&display=swap');
+
+* {
+
+margin: 0;
+
+border: 0;
+
+padding: 0;
+
+box-sizing: border-box;
+
+font-family: "Prompt", sans-serif;
+}
+
+header, .navbar {
+    background-color: rgb(212, 5, 22);
+  }
+  #nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  #logo {
+    width: 200px;
+  }
+  .navbar-brand {
+    padding: 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+  }
+  
+  #stylemain{
+    margin-left: 0px;
+    background-color: rgb(173, 172, 172);
+    }
+
+  #titulo{
+    text-align: center;
+}
+
+#colunaUM{
+  background-color: red;
+}
+
+#button{
+  padding: 20px;
+  width: 190px;
+  font-size: 13px;
+  border-radius: 15px;
+  text-align: center;
+  margin: auto;
+  margin-left: 50px;
+
+  
+}
+
+#buttons{
+ text-align: center;
+}
+
+
+#titulo{
+  color: white;
+  
+}
+
+
